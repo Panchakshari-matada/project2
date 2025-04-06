@@ -1,3 +1,3 @@
 # this is an example
 
-local system demo
+local system demo.
